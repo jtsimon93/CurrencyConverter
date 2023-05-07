@@ -41,3 +41,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * npyscreen for their awesome software!
+
+## Screenshots
+A screenshot of the main screen:
+
+![currency-converter-main-screen](https://user-images.githubusercontent.com/943326/236696710-9048b798-bc53-4026-8862-174e93c37097.png)
+
+
+A screenshot of the results screen:
+
+![currency-converter-results-screen](https://user-images.githubusercontent.com/943326/236696730-86e73b76-d8f6-4f66-a47f-48beee131a75.png)
+
